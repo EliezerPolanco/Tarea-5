@@ -42,9 +42,10 @@ class Programa
 
     static void PrecargarClientes()
     {
-        clientes.Add(new Cliente { Id = siguienteId++, Nombre = "Carlos Pérez", Telefono = "123456789", Email = "carlos@gmail.com" });
-        clientes.Add(new Cliente { Id = siguienteId++, Nombre = "Ana García", Telefono = "987654321", Email = "ana@hotmail.com" });
-        clientes.Add(new Cliente { Id = siguienteId++, Nombre = "Luis Martínez", Telefono = "555666777", Email = "luis@yahoo.com" });
+        clientes.Add(new Cliente { Id = siguienteId++, Nombre = "Carlos Pérez", Telefono = "8099747425", Email = "carlos@gmail.com" });
+        clientes.Add(new Cliente { Id = siguienteId++, Nombre = "Ana García", Telefono = "8498578440", Email = "ana@hotmail.com" });
+        clientes.Add(new Cliente { Id = siguienteId++, Nombre = "Luis Martínez", Telefono = "8098156090", Email = "luis@yahoo.com" });
+        clientes.Add(new Cliente { Id = siguienteId++, Nombre = "Elisa Peralta", Telefono = "8098156090", Email = "Elisa@yahoo.com" });
     }
 
     static void EjecutarOpcion(int opcion)
