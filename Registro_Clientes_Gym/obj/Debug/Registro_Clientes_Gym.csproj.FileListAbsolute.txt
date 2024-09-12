@@ -1,0 +1,7 @@
+C:\Users\Eliez\Desktop\C# Basico\Programas\Registro_Clientes_Gym\bin\Debug\Registro_Clientes_Gym.exe.config
+C:\Users\Eliez\Desktop\C# Basico\Programas\Registro_Clientes_Gym\bin\Debug\Registro_Clientes_Gym.exe
+C:\Users\Eliez\Desktop\C# Basico\Programas\Registro_Clientes_Gym\bin\Debug\Registro_Clientes_Gym.pdb
+C:\Users\Eliez\Desktop\C# Basico\Programas\Registro_Clientes_Gym\obj\Debug\Registro_Clientes_Gym.csproj.AssemblyReference.cache
+C:\Users\Eliez\Desktop\C# Basico\Programas\Registro_Clientes_Gym\obj\Debug\Registro_Clientes_Gym.csproj.CoreCompileInputs.cache
+C:\Users\Eliez\Desktop\C# Basico\Programas\Registro_Clientes_Gym\obj\Debug\Registro_Clientes_Gym.exe
+C:\Users\Eliez\Desktop\C# Basico\Programas\Registro_Clientes_Gym\obj\Debug\Registro_Clientes_Gym.pdb
